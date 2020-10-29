@@ -8,12 +8,6 @@ Observações:
     - Instale a extensão "Better Comments" no VSCode para uma melhor experiência
     - Preste atenção em todos os comentários dentro dos códigos
 
-# Novas mudanças!
-
-  - Foi adicionado ao webapack um loader para imagens.
-  - Foi adicionado plugin para erros de runtime ao babel.
-
-
 Lembre-se você pode:
   - Simplesmente utilizar este reposítório para um projeto.
   - Utilizar para demonstrações.
